@@ -1,1 +1,4 @@
-# HelloToGithub
+## HelloToGithub
+```
+printf("HELLO IN GITHUB") 
+```
